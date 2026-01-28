@@ -12,6 +12,7 @@
 - **Database:** MongoDB, MySQL
 - **Security:** Web Pentesting, OWASP Top 10
 - **Tools:** Git, GitHub, Postman, Linux
+- **Languages:** JavaScript, Python, C++, C
 
 ---
 
@@ -20,9 +21,9 @@
 📌 AI-powered resume analyzer & job recommendation system  
 🔗 [Repo Link]
 
-### 🔹 ShoopZoo – E-Commerce Platform
-🛒 Full stack e-commerce site (HTML, JS, PHP, SQL)  
-🔗 [Repo Link]
+### 🔹 RakHack-OSINT Tool
+🛒 Full stack e-commerce site (TypeScript 63.5%, Python 25.7%, CSS 6.2%, JavaScript 2.6%, Batchfile 1.3%, HTML 0.7%)  
+🔗 [[Repo Link]](https://github.com/Rachakweb/RakHack-OSINT.git)
 
 ### 🔹 Crypto Exchange App
 📄 IEEE format blockchain project  
