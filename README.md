@@ -34,10 +34,8 @@
 
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rachakweb&show_icons=true&theme=tokyonight)
 
-## 📊 GitHub Stats
-![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rachakweb&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rachakweb&layout=compact&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rachakweb&layout=compact&theme=tokyonight)
 
 ---
 
