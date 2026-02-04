@@ -27,7 +27,7 @@
 
 ### 🔹 Crypto Exchange App
 📄 IEEE format blockchain project  
-🔗 [Repo Link]
+🔗 [[Repo Link](https://github.com/Rachakweb/krypto-eX.git)]
 
 ---
 ## 📊 GitHub Stats
