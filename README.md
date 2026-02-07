@@ -22,7 +22,7 @@
 🔗 [Repo Link]
 
 ### 🔹 RakHack-OSINT Tool
-🛒 Full stack e-commerce site (TypeScript 63.5%, Python 25.7%, CSS 6.2%, JavaScript 2.6%, Batchfile 1.3%, HTML 0.7%)  
+🛒 RakHack OSINT Tool is a professional-grade Open Source Intelligence (OSINT) investigation platform designed for cyber researchers, investigators, and law enforcement. It provides a unified interface to gather, analyze, and visualize intelligence on domains and individuals from public sources
 🔗 [[Repo Link]](https://github.com/Rachakweb/RakHack-OSINT.git)
 
 ### 🔹 Crypto Exchange App
